@@ -6,11 +6,11 @@
 
 ## WARNING
 
-It seems that recently yowsup gets detected during registration resulting in an instant ban for your number right after registering with the code you receive by sms/voice. I'd strongly recommend to not attempt registration through yowsup until I look further into this. Follow the status of this [here](https://github.com/tgalal/yowsup/issues/2829).
+It seems that recently rows up to get detected during registration resulting in an instant ban for your number right after registering with the code you receive by SMS/voice. I'd strongly recommend to not attempt registration through rows up until I look further into this. Follow the status of this [here](https://github.com/tgalal/yowsup/issues/2829).
 
 ---
 
-yowsup is a python library that enables building applications that can communicate with WhatsApp users.
+yo, sup is a python library that enables building applications that can communicate with WhatsApp users.
 The project started as the protocol engine behind [Wazapp for Meego](https://wiki.maemo.org/Wazapp) and
 [OpenWA for BB10](https://www.lowyat.net/2013/5896/try-this-openwhatsapp-for-blackberry-10/). Now as a standalone
 library it can be used to power any custom WhatsApp client.
@@ -35,7 +35,7 @@ uses:
 
 ## See also
 
-During maintenance of yowsup, several projects have been spawned out in order to support different features that get
+During maintenance of rows up, several projects have been spawned out to support different features that get
 introduced by WhatsApp. Some of those features are not necessarily exclusive to WhatsApp and therefore it only made
 sense to maintain some parts as standalone projects:
 
@@ -54,15 +54,15 @@ sense to maintain some parts as standalone projects:
 
 ## Installation
 
-Install using setup.py to pull all Python dependencies, or pip:
+Install using setup.py to pull all Python dependencies or pip:
 
 ```
-pip install yowsup
+pip install rows up
 ```
 
 ### Linux
 
-You need to have installed Python headers (probably from python-dev package) and ncurses-dev, then run
+You need to have installed Python headers (probably from a python-dev package) and   curses-dev, then run
 ```
 python setup.py install
 ```
@@ -77,7 +77,7 @@ pip install yowsup
 ```
 python setup.py install
 ```
-Administrators privileges might be required, if so then run with 'sudo'
+Administrators privileges might be required, if so then run with ' sudo
 
 ### Windows
 
@@ -95,4 +95,4 @@ compiler=mingw32
 
 # License:
 
-As of January 1, 2015 yowsup is licensed under the GPLv3+: http://www.gnu.org/licenses/gpl-3.0.html.
+As of January 1, 2015 rows up is licensed under the GPLv3+: http://www.gnu.org/licenses/gpl-3.0.html.
